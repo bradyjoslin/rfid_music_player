@@ -1,6 +1,5 @@
 import serial
 import subprocess
-import time
 
 serial = serial.Serial('/dev/ttyACM0')
 
